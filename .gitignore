@@ -1,4 +1,5 @@
 dataset/
 *.tar
 *.pth
+*.zip
 __pycache__/
